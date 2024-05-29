@@ -3,7 +3,7 @@ package stickers
 import (
 	"errors"
 	"fmt"
-	"github.com/charmbracelet/lipgloss"
+	"github.com/0xsbeem/lipgloss"
 	"log"
 	"math"
 	"reflect"

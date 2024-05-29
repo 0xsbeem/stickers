@@ -1,6 +1,6 @@
 package stickers
 
-import "github.com/charmbracelet/lipgloss"
+import "github.com/0xsbeem/lipgloss"
 
 // FlexBox responsive box grid insipred by CSS flexbox
 type FlexBox struct {

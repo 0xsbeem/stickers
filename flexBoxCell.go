@@ -1,7 +1,7 @@
 package stickers
 
 import (
-	"github.com/charmbracelet/lipgloss"
+	"github.com/0xsbeem/lipgloss"
 )
 
 // FlexBoxCell is a building block object of the FlexBox, it represents a single cell within a box

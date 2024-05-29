@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/76creates/stickers"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/lipgloss"
+	"github.com/0xsbeem/lipgloss"
 	"github.com/gocarina/gocsv"
 	"os"
 	"unicode"

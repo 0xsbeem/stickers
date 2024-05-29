@@ -3,7 +3,7 @@ package stickers
 import (
 	"strconv"
 
-	"github.com/charmbracelet/lipgloss"
+	"github.com/0xsbeem/lipgloss"
 )
 
 // FlexBoxRow is the container for the cells, this object has the least to do with the ratio
